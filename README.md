@@ -1,1 +1,1 @@
-# Training_On_Python
+# Gitam-Vizag-Python
